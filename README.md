@@ -21,7 +21,7 @@ This project is a simple web application that allows users to change the color o
 ### Running the Application
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/color-generator.git
+    git clone https://github.com/JonnagaddalaVaishnavi/color-generator.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -57,3 +57,15 @@ function changeColor() {
 
     elementToChange.style.backgroundColor = newColor;
 }
+## Screenshots
+Here are some screenshots of the application in action:
+
+### Initial Screen
+![Mini Color Changer Initial](images/Screenshot_2025-01-22_180151.png)
+
+### Background Color Change
+![Background Color Change](images/Screenshot_2025-01-22_180151.png)
+
+### Text Color Change
+![Text Color Change](images/Screenshot_2025-01-22_180151.png)
+
