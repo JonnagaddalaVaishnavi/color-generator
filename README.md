@@ -63,10 +63,10 @@ function changeColor() {
 Here are some screenshots of the application in action:
 
 ### Initial Screen
-![Mini Color Changer Initial](images/Screenshot 2025-01-22 180151.png)
+![Mini Color Changer Initial](https://raw.githubusercontent.com/JonnagaddalaVaishnavi/color-generator/main/images/Screenshot_2025-01-22_180151.png)
 
 ### Background Color Change
-![Background Color Change](images/Screenshot 2025-01-22 180207.png)
+![Background Color Change](https://raw.githubusercontent.com/JonnagaddalaVaishnavi/color-generator/main/images/Screenshot_2025-01-22_180207.png)
 
 ### Text Color Change
-![Text Color Change](images/Screenshot 2025-01-22 180231.png)
+![Text Color Change](https://raw.githubusercontent.com/JonnagaddalaVaishnavi/color-generator/main/images/Screenshot_2025-01-22_180231.png)
