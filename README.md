@@ -57,6 +57,8 @@ function changeColor() {
 
     elementToChange.style.backgroundColor = newColor;
 }
+```
+
 ## Screenshots
 Here are some screenshots of the application in action:
 
@@ -64,8 +66,7 @@ Here are some screenshots of the application in action:
 ![Mini Color Changer Initial](images/Screenshot_2025-01-22_180151.png)
 
 ### Background Color Change
-![Background Color Change](images/Screenshot_2025-01-22_180151.png)
+![Background Color Change](images/Screenshot_2025-01-22_180207.png)
 
 ### Text Color Change
-![Text Color Change](images/Screenshot_2025-01-22_180151.png)
-
+![Text Color Change](images/Screenshot_2025-01-22_180231.png)
